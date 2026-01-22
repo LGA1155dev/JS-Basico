@@ -12,3 +12,7 @@ Como funciona a logica por traz do if e else;
 
 Switch cases e quais ocasiões usar;
 
+
+Aula 11.1:
+
+Aprendi a usar estruturas de repetição Do while e pra que elas servem, fiz pequenos exercicios no script js desta pagina pra treinar.
